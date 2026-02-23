@@ -1,1 +1,1 @@
-[![image preview](./assets/images/icandoit.jpg)](https://velog.io/@jjipper/posts)
+[![image preview](./assets/images/icandoit.png)](https://velog.io/@jjipper/posts)
